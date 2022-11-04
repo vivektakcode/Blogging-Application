@@ -1,1 +1,4 @@
-This project is based on SpringBoot
+This is a blogging application which is SpringBoot based. It uses hibernate and Spring JPA repository to create and update Tables. The database used is MySQL. 
+For security purposes I will be using Spring token-based security with JWT tokens.
+
+Overtime, it will be turned into a fullstack application using reactjs as FrontEnd. Also, this will be deployed on the cloud using AWS.
